@@ -1,0 +1,13 @@
+# node module files
+node_modules
+
+# secret environment variables
+.env
+
+#firebase sdk
+blog-web-site-90d69-firebase-adminsdk-w0s25-443e6a3f20.json
+
+# google cloud
+requests.requests
+
+.DS_Store
